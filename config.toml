@@ -1,2 +1,3 @@
 baseURL = "https://jlw-1701.github.io/implications/"
+theme = "ananke"
 publishDir = "public"
